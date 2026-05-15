@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "6a07222c190183dcaedc101d",
+    "index": 0,
+    "LegoSet": 38484992,
+    "price": 14.2519,
+    "Rarity": "rare",
+    "Detali": 1940
+  },
+  {
+    "_id": "6a07222cca1cffc9a1ec5f30",
+    "index": 1,
+    "LegoSet": 1384,
+    "price": 10.9219,
+    "Rarity": "kaka",
+    "Detali": 1940
+  },
+  {
+    "_id": "6a07222ceb3a3c92999f2970",
+    "index": 2,
+    "LegoSet": 13388,
+    "price": 21.6689,
+    "Rarity": "ultra",
+    "Detali": 1940
+  },
+  {
+    "_id": "6a07222cda0328dee4c5f47b",
+    "index": 3,
+    "LegoSet": 13388,
+    "price": 24.498,
+    "Rarity": "rare",
+    "Detali": 15
+  },
+  {
+    "_id": "6a07222cc92bc7e60de793d1",
+    "index": 4,
+    "LegoSet": 38484992,
+    "price": 26.5573,
+    "Rarity": "rare",
+    "Detali": 15
+  }
+]
